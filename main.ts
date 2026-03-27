@@ -1,1 +1,1 @@
-info.changeScoreBy(1)
+
